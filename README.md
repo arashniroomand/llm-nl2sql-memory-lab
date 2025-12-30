@@ -39,9 +39,9 @@ fix_sql_error (if needed)
 Provide Answer
 ```
 
-![LLM Memory Architecture](img\nl2sql.avif)
+<img src="img\nl2sql.avif" alt="My image" width="1000" height="400" />
 
 
 ## Memory:
 
-![LLM Memory Architecture](img\memory.webp)
+<img src="img\memory.webp" alt="My image" width="1000" height="400" />
