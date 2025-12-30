@@ -39,9 +39,9 @@ fix_sql_error (if needed)
 Provide Answer
 ```
 
-<img src="img\nl2sql.avif" alt="My image" width="1000" height="400" />
+<img src="img\nl2sql.avif" alt="My image" width="600" height="600" />
 
 
 ## Memory:
 
-<img src="img\memory.webp" alt="My image" width="1000" height="400" />
+<img src="img\memory.webp" alt="My image" width="1000" height="600" />
